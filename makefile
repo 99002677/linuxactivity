@@ -3,7 +3,7 @@
 BUILD = build
 NAME= test
 
-INC=-Iinc
+INC=-Iinclude
 
 SRC= src/mystring.c\
 src/myutils.c\
