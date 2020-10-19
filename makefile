@@ -5,7 +5,7 @@ NAME= test
 
 INC=-Iinclude
 
-SRC= src/mystring.c\
+SRC= src/mystr.c\
 src/myutils.c\
 src/bitmask.c\
 src/test.c
